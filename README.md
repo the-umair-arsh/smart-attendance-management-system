@@ -72,11 +72,84 @@ lib/
 
 ---
 
+
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+### Splash Screen
+
+![Splash Screen](assets/Screenshots/splash-screen.jpeg)
 
 ---
+
+### Role Selection
+
+![Role Selection](assets/Screenshots/role-selection-screen.jpeg)
+
+---
+
+### Admin Dashboard
+
+![Admin Dashboard](assets/Screenshots/admin-screen.jpeg)
+
+---
+
+### Teacher Dashboard
+
+![Teacher Dashboard](assets/Screenshots/teacher-screen.jpeg)
+
+---
+
+### Student Dashboard
+
+![Student Dashboard](assets/Screenshots/student-screen.jpeg)
+
+---
+
+### QR Generator
+
+![QR Generator](assets/Screenshots/qr-genreate-screen.jpeg)
+
+---
+
+### QR Scanner
+
+![QR Scanner](assets/Screenshots/scanner-screen.jpeg)
+
+---
+
+### Attendance Screen
+
+![Attendance](assets/Screenshots/attendance-screen.jpeg)
+
+---
+
+### Smart Report
+
+![Smart Report](assets/Screenshots/course-report-screen.jpeg)
+
+---
+
+### Manage Students
+
+![Manage Students](assets/Screenshots/manage-students-screen.jpeg)
+
+---
+
+### Manage Teachers
+
+![Manage Teachers](assets/Screenshots/manage-teacher-screen.jpeg)
+
+---
+
+### Manage Courses
+
+![Manage Courses](assets/Screenshots/manage-courses-sceen.jpeg)
+
+---
+
+### Proxy Detection
+
+![Proxy Detection](assets/Screenshots/proxy-detection-screen.jpeg)
 
 ## 🔮 Future Improvements
 
