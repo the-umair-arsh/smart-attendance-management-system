@@ -71,7 +71,19 @@ lib/
 ```
 
 ---
+## 🎥 Demo Videos
 
+### 👨‍🏫 Teacher Workflow
+[▶️ Watch Teacher Demo](demo/teacher-demo.mp4)
+
+### 👨‍🎓 Student Workflow
+[▶️ Watch Student Demo](demo/student-demo.mp4)
+
+---
+
+## 📄 Project Presentation
+
+📑 [View Project Presentation (PDF)](docs/Smart_Attendance_Management_System_Presentation.pdf)
 
 ## 📸 Screenshots
 
