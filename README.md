@@ -96,9 +96,9 @@ Software Engineering Student
 
 Riphah International University, Sahiwal
 
-LinkedIn
+LinkedIn: muhammad-umair-se
 
-GitHub
+GitHub : the-umair-arsh
 
 ---
 
