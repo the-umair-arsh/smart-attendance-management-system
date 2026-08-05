@@ -1,4 +1,8 @@
 # 🎓 Smart Attendance Management System
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 A modern Flutter & Firebase-based Smart Attendance Management System designed for educational institutions. The application provides secure role-based authentication, QR code attendance, smart reporting, and efficient management of students, teachers, and courses.
 
