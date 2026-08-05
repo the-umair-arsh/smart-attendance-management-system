@@ -111,83 +111,80 @@ lib/
 
 📑 [View Project Presentation (PDF)](docs/Smart_Attendance_Management_System_Presentation.pdf)
 
-## 📸 Screenshots
+## 📸 Application Screenshots
 
-### Splash Screen
+<table>
+<tr>
+<td align="center"><b>Splash Screen</b></td>
+<td align="center"><b>Role Selection</b></td>
+</tr>
 
-![Splash Screen](assets/Screenshots/splash-screen.jpeg)
+<tr>
+<td><img src="assets/Screenshots/splash-screen.jpeg" width="300"/></td>
+<td><img src="assets/Screenshots/role-selection-screen.jpeg" width="300"/></td>
+</tr>
 
----
+<tr>
+<td align="center"><b>Admin Dashboard</b></td>
+<td align="center"><b>Teacher Dashboard</b></td>
+</tr>
 
-### Role Selection
+<tr>
+<td><img src="assets/Screenshots/admin-screen.jpeg" width="300"/></td>
+<td><img src="assets/Screenshots/teacher-screen.jpeg" width="300"/></td>
+</tr>
 
-![Role Selection](assets/Screenshots/role-selection-screen.jpeg)
+<tr>
+<td align="center"><b>Student Dashboard</b></td>
+<td align="center"><b>QR Generator</b></td>
+</tr>
 
----
+<tr>
+<td><img src="assets/Screenshots/student-screen.jpeg" width="300"/></td>
+<td><img src="assets/Screenshots/qr-genreate-screen.jpeg" width="300"/></td>
+</tr>
 
-### Admin Dashboard
+<tr>
+<td align="center"><b>QR Scanner</b></td>
+<td align="center"><b>Attendance</b></td>
+</tr>
 
-![Admin Dashboard](assets/Screenshots/admin-screen.jpeg)
+<tr>
+<td><img src="assets/Screenshots/scanner-screen.jpeg" width="300"/></td>
+<td><img src="assets/Screenshots/attendance-screen.jpeg" width="300"/></td>
+</tr>
 
----
+<tr>
+<td align="center"><b>Manage Students</b></td>
+<td align="center"><b>Manage Teachers</b></td>
+</tr>
 
-### Teacher Dashboard
+<tr>
+<td><img src="assets/Screenshots/manage-students-screen.jpeg" width="300"/></td>
+<td><img src="assets/Screenshots/manage-teacher-screen.jpeg" width="300"/></td>
+</tr>
 
-![Teacher Dashboard](assets/Screenshots/teacher-screen.jpeg)
+<tr>
+<td align="center"><b>Manage Courses</b></td>
+<td align="center"><b>Attendance Report</b></td>
+</tr>
 
----
+<tr>
+<td><img src="assets/Screenshots/manage-courses-sceen.jpeg" width="300"/></td>
+<td><img src="assets/Screenshots/course-report-screen.jpeg" width="300"/></td>
+</tr>
 
-### Student Dashboard
+<tr>
+<td align="center"><b>Proxy Detection</b></td>
+<td></td>
+</tr>
 
-![Student Dashboard](assets/Screenshots/student-screen.jpeg)
+<tr>
+<td><img src="assets/Screenshots/proxy-detection-screen.jpeg" width="300"/></td>
+<td></td>
+</tr>
 
----
-
-### QR Generator
-
-![QR Generator](assets/Screenshots/qr-genreate-screen.jpeg)
-
----
-
-### QR Scanner
-
-![QR Scanner](assets/Screenshots/scanner-screen.jpeg)
-
----
-
-### Attendance Screen
-
-![Attendance](assets/Screenshots/attendance-screen.jpeg)
-
----
-
-### Smart Report
-
-![Smart Report](assets/Screenshots/course-report-screen.jpeg)
-
----
-
-### Manage Students
-
-![Manage Students](assets/Screenshots/manage-students-screen.jpeg)
-
----
-
-### Manage Teachers
-
-![Manage Teachers](assets/Screenshots/manage-teacher-screen.jpeg)
-
----
-
-### Manage Courses
-
-![Manage Courses](assets/Screenshots/manage-courses-sceen.jpeg)
-
----
-
-### Proxy Detection
-
-![Proxy Detection](assets/Screenshots/proxy-detection-screen.jpeg)
+</table>
 
 ## 🔮 Future Improvements
 
