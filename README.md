@@ -2,9 +2,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
-A modern Flutter & Firebase-based Smart Attendance Management System designed for educational institutions. The application provides secure role-based authentication, QR code attendance, smart reporting, and efficient management of students, teachers, and courses.
+## 🎯 Project Objective
+
+The Smart Attendance Management System was developed to simplify attendance management in educational institutions by replacing manual attendance with a secure QR-based solution. The system improves efficiency, reduces proxy attendance, and provides real-time reporting for administrators, teachers, and students. A modern Flutter & Firebase-based Smart Attendance Management System designed for educational institutions. The application provides secure role-based authentication, QR code attendance, smart reporting, and efficient management of students, teachers, and courses.
 
 ---
 
@@ -40,15 +42,18 @@ A modern Flutter & Firebase-based Smart Attendance Management System designed fo
 
 ---
 
-## 📱 Technologies Used
+## 🛠️ Tech Stack
 
-- Flutter
-- Dart
-- Firebase Authentication
-- Cloud Firestore
-- Material Design
-
----
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Cross-platform Mobile Application Development |
+| Dart | Programming Language |
+| Firebase Authentication | Secure User Authentication |
+| Cloud Firestore | Cloud Database |
+| QR Code Generator | Attendance QR Generation |
+| Mobile Scanner | QR Code Scanning |
+| Android Studio | Development Environment |
+| Git & GitHub | Version Control |
 
 
 ## ✨ Key Features
@@ -184,8 +189,28 @@ lib/
 <td></td>
 </tr>
 
-</table>
+</table>  
 
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Android Studio
+- Firebase Project
+
+### Installation
+
+```bash
+git clone https://github.com/the-umair-arsh/smart-attendance-management-system.git
+
+cd smart-attendance-management-system
+
+flutter pub get
+
+flutter run
+```
 ## 🔮 Future Improvements
 
 - Face Recognition Attendance
@@ -200,14 +225,13 @@ lib/
 
 **Muhammad Umair**
 
-Software Engineering Student
+Software Design and Architecture | Flutter Developer | Web Developer | Software Engineering Student 
 
-Riphah International University, Sahiwal
+### 📫 Connect
 
-LinkedIn: muhammad-umair-se
-
-GitHub : the-umair-arsh
-
+- GitHub: https://github.com/the-umair-arsh
+- LinkedIn: https://linkedin.com/in/muhammad-umair-se
+- Email: aumairarshad376@gmail.com
 ---
 
 ## ⭐ Support
