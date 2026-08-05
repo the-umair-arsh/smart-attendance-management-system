@@ -50,17 +50,39 @@ A modern Flutter & Firebase-based Smart Attendance Management System designed fo
 
 ---
 
-## ⭐ Key Features
 
-- QR Code Based Attendance
-- Device Binding
-- Smart Attendance Reports
-- Cloud Database
-- Cross Platform Application
-- Clean User Interface
-- Real-Time Data Management
+## ✨ Key Features
 
----
+- 🔐 **Role-Based Authentication**
+  - Secure login system for **Admin, Teacher, and Student**.
+
+- 📱 **QR Code Attendance**
+  - Teachers generate unique QR codes for each class session.
+  - Students scan QR codes to mark attendance instantly.
+
+- 🛡️ **Device Binding**
+  - Attendance can only be marked from the registered device to reduce misuse.
+
+- 🚫 **Proxy Attendance Detection**
+  - Prevents unauthorized or duplicate attendance attempts.
+
+- 👨‍🎓 **Student Management**
+  - Add, update, and manage student records efficiently.
+
+- 👨‍🏫 **Teacher Management**
+  - Manage teacher profiles and assigned courses.
+
+- 📚 **Course Management**
+  - Create and manage subjects and course allocations.
+
+- 📊 **Smart Attendance Reports**
+  - View attendance summaries and detailed reports.
+
+- ☁️ **Firebase Integration**
+  - Firebase Authentication and Cloud Firestore for secure real-time data storage.
+
+- 🎨 **Modern Flutter UI**
+  - Responsive and user-friendly interface built with Flutter.
 
 ## 📂 Project Structure
 
